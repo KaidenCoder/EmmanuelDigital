@@ -104,7 +104,7 @@ else:
             'ENGINE': 'django.db.backends.postgresql_psycopg2',
             'NAME': 'eesdigitalDB;',
             'USER': 'eehss',
-            'PASSWORD': 'django123',
+            'PASSWORD': 'testing123',
             'HOST': 'localhost',
             'PORT': '',
         }
