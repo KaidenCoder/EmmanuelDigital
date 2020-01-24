@@ -102,9 +102,9 @@ else:
     DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.postgresql_psycopg2',
-            'NAME': 'eesdigitalDB',
-            'USER': 'eehss',
-            'PASSWORD': 'testing123',
+            'NAME': 'eeswebdb',
+            'USER': 'eesdb',
+            'PASSWORD': 'django@123',
             'HOST': 'localhost',
             'PORT': '',
         }
