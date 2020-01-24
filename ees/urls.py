@@ -43,4 +43,4 @@ urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 
 admin.site.site_header = "EEHS SCHOOL ADMIN"
 admin.site.site_title = "EEHS SCHOOL ADMIN"
-admin.site.site_index_title = "Welcome To EEHS School Admin"
+admin.site.site_index_title = "Welcome To EEHS School Admin Panel"
